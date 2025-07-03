@@ -1,0 +1,6 @@
+obj-y += main.o
+obj-y += utils.o
+obj-y += cmp.o
+obj-y += puf.o
+obj-y += socketModuleRadio.o
+obj-y += UAV.o
